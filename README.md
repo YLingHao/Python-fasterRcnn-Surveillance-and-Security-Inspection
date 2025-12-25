@@ -3,7 +3,7 @@
 
 安装opencv-rolling版本即可解决视频界面无法显示中文问题，安装方法参考https://blog.csdn.net/Ding_Jie_/article/details/134462952
 
-通过GUI组件实现图形化界面
+通过PYQT5实现图形化界面
 ![2d8e7cd026357c1d6033d9d6acb694b6](https://github.com/user-attachments/assets/9ba45d82-b79c-4bd3-ba24-a46ddc9d14cb)
 
 可以勾选检测功能同时设置各项阈值参数
